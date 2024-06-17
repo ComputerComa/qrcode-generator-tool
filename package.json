@@ -1,0 +1,28 @@
+{
+  "name": "qrcode-generator-tool",
+  "version": "1.0.0",
+  "description": "Javascript QR Code Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComputerComa/qrcode-generator-tool.git"
+  },
+  "keywords": [
+    "QRCode",
+    "Javascript",
+    "CMDLine"
+  ],
+  "author": "ComputerComa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComputerComa/qrcode-generator-tool/issues"
+  },
+  "homepage": "https://github.com/ComputerComa/qrcode-generator-tool#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "qrcode": "^1.5.3"
+  }
+}
